@@ -3,9 +3,9 @@ Trabalho da disciplina de Linguagens de Programação. Objetivo é refazer o tra
 
 ------
 
-1º Baixe e [instale o SDK](https://dart.dev/get-dart)
-2º Faça um '$ dart pub get' para obter as dependências do pubspec.yaml
-3º Execute dart trabalho_lp.dart
+1º Baixe e [instale o SDK](https://dart.dev/get-dart)<br>
+2º Faça um '$ dart pub get' para obter as dependências do pubspec.yaml<br>
+3º Execute dart trabalho_lp.dart<br>
 
 Observação: para processar outras cidades, basta mudar a variável caminho dentro do arquivo "trabalho_lp.dart"
 
