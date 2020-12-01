@@ -1,0 +1,6 @@
+name: Trabalho
+
+dependencies:
+  csv: ^4.1.0
+  tuple: ^1.0.3
+

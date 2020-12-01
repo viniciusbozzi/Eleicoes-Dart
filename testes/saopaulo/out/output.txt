@@ -1,0 +1,194 @@
+Número de vagas: 55
+
+Vereadores eleitos:
+1 - EDUARDO SUPLICY (PT, 301446 votos) - Coligação: PT / PDT / PR / PROS
+2 - MILTON LEITE (DEM, 107957 votos) - Coligação: PSDB / PSB / PP / DEM
+3 - TRIPOLI (PV, 88843 votos)
+4 - CONTE LOPES (PP, 80052 votos) - Coligação: PSDB / PSB / PP / DEM
+5 - MARIO COVAS NETO (PSDB, 75593 votos) - Coligação: PSDB / PSB / PP / DEM
+6 - EDUARDO TUMA (PSDB, 70273 votos) - Coligação: PSDB / PSB / PP / DEM
+7 - ADILSON AMADEU (PTB, 67071 votos)
+8 - SOUZA SANTOS (PRB, 55924 votos) - Coligação: PRB / PSC
+9 - RICARDO NUNES (PMDB, 54692 votos) - Coligação: PMDB / PSD
+10 - CELSO JATENE (PR, 53715 votos) - Coligação: PT / PDT / PR / PROS
+11 - ELISEU GABRIEL (PSB, 52355 votos) - Coligação: PSDB / PSB / PP / DEM
+12 - RODRIGO GOULART (PSD, 49364 votos) - Coligação: PMDB / PSD
+13 - FERNANDO HOLIDAY (DEM, 48055 votos) - Coligação: PSDB / PSB / PP / DEM
+14 - ATILIO FRANCISCO (PRB, 46961 votos) - Coligação: PRB / PSC
+15 - OTA (PSB, 45915 votos) - Coligação: PSDB / PSB / PP / DEM
+16 - SENIVAL MOURA (PT, 45320 votos) - Coligação: PT / PDT / PR / PROS
+17 - PATRICIA BEZERRA (PSDB, 45285 votos) - Coligação: PSDB / PSB / PP / DEM
+18 - JOÃO JORGE (PSDB, 42404 votos) - Coligação: PSDB / PSB / PP / DEM
+19 - AURÉLIO NOMURA (PSDB, 41954 votos) - Coligação: PSDB / PSB / PP / DEM
+20 - SONINHA (PPS, 40113 votos) - Coligação: PPS / PHS / PMB
+21 - EDIR SALES (PSD, 39062 votos) - Coligação: PMDB / PSD
+22 - GILSON BARRETO (PSDB, 38564 votos) - Coligação: PSDB / PSB / PP / DEM
+23 - ANDRÉ SANTOS (PRB, 37393 votos) - Coligação: PRB / PSC
+24 - DANIEL ANNENBERG (PSDB, 36983 votos) - Coligação: PSDB / PSB / PP / DEM
+25 - ALFREDINHO (PT, 36324 votos) - Coligação: PT / PDT / PR / PROS
+26 - TONINHO PAIVA (PR, 35219 votos) - Coligação: PT / PDT / PR / PROS
+27 - JULIANA CARDOSO (PT, 34949 votos) - Coligação: PT / PDT / PR / PROS
+28 - SANDRA TADEU (DEM, 34182 votos) - Coligação: PSDB / PSB / PP / DEM
+29 - RUTE COSTA (PSD, 33999 votos) - Coligação: PMDB / PSD
+30 - POLICE NETO (PSD, 33537 votos) - Coligação: PMDB / PSD
+31 - DONATO (PT, 32592 votos) - Coligação: PT / PDT / PR / PROS
+32 - NOEMI NONATO (PR, 32116 votos) - Coligação: PT / PDT / PR / PROS
+33 - JAIR TATTO (PT, 30989 votos) - Coligação: PT / PDT / PR / PROS
+34 - GILBERTO NASCIMENTO JR (PSC, 30382 votos) - Coligação: PRB / PSC
+35 - ADRIANA RAMALHO (PSDB, 29756 votos) - Coligação: PSDB / PSB / PP / DEM
+36 - CAMILO CRISTÓFARO (PSB, 29603 votos) - Coligação: PSDB / PSB / PP / DEM
+37 - REIS (PT, 29308 votos) - Coligação: PT / PDT / PR / PROS
+38 - PAULO FRANGE (PTB, 29242 votos)
+39 - RICARDO TEIXEIRA (PROS, 28515 votos) - Coligação: PT / PDT / PR / PROS
+40 - FABIO RIVA (PSDB, 28041 votos) - Coligação: PSDB / PSB / PP / DEM
+41 - GILBERTO NATALINI (PV, 28006 votos)
+42 - ALESSANDRO GUEDES (PT, 26780 votos) - Coligação: PT / PDT / PR / PROS
+43 - ARSELINO TATTO (PT, 26596 votos) - Coligação: PT / PDT / PR / PROS
+44 - GEORGE HATO (PMDB, 26104 votos) - Coligação: PMDB / PSD
+45 - ISAC FELIX (PR, 25876 votos) - Coligação: PT / PDT / PR / PROS
+46 - ALINE CARDOSO (PSDB, 25769 votos) - Coligação: PSDB / PSB / PP / DEM
+47 - CLAUDINHO DE SOUZA (PSDB, 24923 votos) - Coligação: PSDB / PSB / PP / DEM
+48 - DAVID SOARES (DEM, 24892 votos) - Coligação: PSDB / PSB / PP / DEM
+49 - DR. MILTON FERREIRA (PTN, 21849 votos)
+50 - RINALDI DIGILIO (PRB, 20916 votos) - Coligação: PRB / PSC
+51 - JANAINA LIMA (NOVO, 19425 votos)
+52 - CLAUDIO FONSECA (PPS, 18444 votos) - Coligação: PPS / PHS / PMB
+53 - TONINHO VESPOLI (PSOL, 16012 votos) - Coligação: PSOL / PCB
+54 - ZÉ TURIN (PHS, 14957 votos) - Coligação: PPS / PHS / PMB
+55 - SÂMIA BOMFIM (PSOL, 12464 votos) - Coligação: PSOL / PCB
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - EDUARDO SUPLICY (PT, 301446 votos) - Coligação: PT / PDT / PR / PROS
+2 - MILTON LEITE (DEM, 107957 votos) - Coligação: PSDB / PSB / PP / DEM
+3 - TRIPOLI (PV, 88843 votos)
+4 - CONTE LOPES (PP, 80052 votos) - Coligação: PSDB / PSB / PP / DEM
+5 - MARIO COVAS NETO (PSDB, 75593 votos) - Coligação: PSDB / PSB / PP / DEM
+6 - EDUARDO TUMA (PSDB, 70273 votos) - Coligação: PSDB / PSB / PP / DEM
+7 - ADILSON AMADEU (PTB, 67071 votos)
+8 - SOUZA SANTOS (PRB, 55924 votos) - Coligação: PRB / PSC
+9 - RICARDO NUNES (PMDB, 54692 votos) - Coligação: PMDB / PSD
+10 - CELSO JATENE (PR, 53715 votos) - Coligação: PT / PDT / PR / PROS
+11 - ELISEU GABRIEL (PSB, 52355 votos) - Coligação: PSDB / PSB / PP / DEM
+12 - RODRIGO GOULART (PSD, 49364 votos) - Coligação: PMDB / PSD
+13 - FERNANDO HOLIDAY (DEM, 48055 votos) - Coligação: PSDB / PSB / PP / DEM
+14 - ATILIO FRANCISCO (PRB, 46961 votos) - Coligação: PRB / PSC
+15 - OTA (PSB, 45915 votos) - Coligação: PSDB / PSB / PP / DEM
+16 - SENIVAL MOURA (PT, 45320 votos) - Coligação: PT / PDT / PR / PROS
+17 - PATRICIA BEZERRA (PSDB, 45285 votos) - Coligação: PSDB / PSB / PP / DEM
+18 - JOÃO JORGE (PSDB, 42404 votos) - Coligação: PSDB / PSB / PP / DEM
+19 - AURÉLIO NOMURA (PSDB, 41954 votos) - Coligação: PSDB / PSB / PP / DEM
+20 - SONINHA (PPS, 40113 votos) - Coligação: PPS / PHS / PMB
+21 - EDIR SALES (PSD, 39062 votos) - Coligação: PMDB / PSD
+22 - GILSON BARRETO (PSDB, 38564 votos) - Coligação: PSDB / PSB / PP / DEM
+23 - ANDRÉ SANTOS (PRB, 37393 votos) - Coligação: PRB / PSC
+24 - DANIEL ANNENBERG (PSDB, 36983 votos) - Coligação: PSDB / PSB / PP / DEM
+25 - ALFREDINHO (PT, 36324 votos) - Coligação: PT / PDT / PR / PROS
+26 - TONINHO PAIVA (PR, 35219 votos) - Coligação: PT / PDT / PR / PROS
+27 - JULIANA CARDOSO (PT, 34949 votos) - Coligação: PT / PDT / PR / PROS
+28 - SANDRA TADEU (DEM, 34182 votos) - Coligação: PSDB / PSB / PP / DEM
+29 - RUTE COSTA (PSD, 33999 votos) - Coligação: PMDB / PSD
+30 - POLICE NETO (PSD, 33537 votos) - Coligação: PMDB / PSD
+31 - DONATO (PT, 32592 votos) - Coligação: PT / PDT / PR / PROS
+32 - NOEMI NONATO (PR, 32116 votos) - Coligação: PT / PDT / PR / PROS
+33 - JAIR TATTO (PT, 30989 votos) - Coligação: PT / PDT / PR / PROS
+34 - GILBERTO NASCIMENTO JR (PSC, 30382 votos) - Coligação: PRB / PSC
+35 - ADRIANA RAMALHO (PSDB, 29756 votos) - Coligação: PSDB / PSB / PP / DEM
+36 - CAMILO CRISTÓFARO (PSB, 29603 votos) - Coligação: PSDB / PSB / PP / DEM
+37 - REIS (PT, 29308 votos) - Coligação: PT / PDT / PR / PROS
+38 - PAULO FRANGE (PTB, 29242 votos)
+39 - RICARDO TEIXEIRA (PROS, 28515 votos) - Coligação: PT / PDT / PR / PROS
+40 - FABIO RIVA (PSDB, 28041 votos) - Coligação: PSDB / PSB / PP / DEM
+41 - GILBERTO NATALINI (PV, 28006 votos)
+42 - ABOU ANNI (PV, 27334 votos)
+43 - ALESSANDRO GUEDES (PT, 26780 votos) - Coligação: PT / PDT / PR / PROS
+44 - ARSELINO TATTO (PT, 26596 votos) - Coligação: PT / PDT / PR / PROS
+45 - GEORGE HATO (PMDB, 26104 votos) - Coligação: PMDB / PSD
+46 - ISAC FELIX (PR, 25876 votos) - Coligação: PT / PDT / PR / PROS
+47 - ALINE CARDOSO (PSDB, 25769 votos) - Coligação: PSDB / PSB / PP / DEM
+48 - CLAUDINHO DE SOUZA (PSDB, 24923 votos) - Coligação: PSDB / PSB / PP / DEM
+49 - DAVID SOARES (DEM, 24892 votos) - Coligação: PSDB / PSB / PP / DEM
+50 - PAULO FIORILO (PT, 24767 votos) - Coligação: PT / PDT / PR / PROS
+51 - DALTON SILVANO (DEM, 24461 votos) - Coligação: PSDB / PSB / PP / DEM
+52 - CAIO MIRANDA CARNEIRO (PSB, 23459 votos) - Coligação: PSDB / PSB / PP / DEM
+53 - NABIL BONDUKI (PT, 23269 votos) - Coligação: PT / PDT / PR / PROS
+54 - MANOEL DEL RIO (PT, 22770 votos) - Coligação: PT / PDT / PR / PROS
+55 - DR. MILTON FERREIRA (PTN, 21849 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+42 - ABOU ANNI (PV, 27334 votos)
+50 - PAULO FIORILO (PT, 24767 votos) - Coligação: PT / PDT / PR / PROS
+51 - DALTON SILVANO (DEM, 24461 votos) - Coligação: PSDB / PSB / PP / DEM
+52 - CAIO MIRANDA CARNEIRO (PSB, 23459 votos) - Coligação: PSDB / PSB / PP / DEM
+53 - NABIL BONDUKI (PT, 23269 votos) - Coligação: PT / PDT / PR / PROS
+54 - MANOEL DEL RIO (PT, 22770 votos) - Coligação: PT / PDT / PR / PROS
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+61 - RINALDI DIGILIO (PRB, 20916 votos) - Coligação: PRB / PSC
+64 - JANAINA LIMA (NOVO, 19425 votos)
+66 - CLAUDIO FONSECA (PPS, 18444 votos) - Coligação: PPS / PHS / PMB
+76 - TONINHO VESPOLI (PSOL, 16012 votos) - Coligação: PSOL / PCB
+78 - ZÉ TURIN (PHS, 14957 votos) - Coligação: PPS / PHS / PMB
+86 - SÂMIA BOMFIM (PSOL, 12464 votos) - Coligação: PSOL / PCB
+
+Votação (nominal) das coligações e número de candidatos eleitos:
+1 - Coligação: PSDB / PSB / PP / DEM, 1147164 votos, 19 candidatos eleitos
+2 - Coligação: PT / PDT / PR / PROS, 1045337 votos, 14 candidatos eleitos
+3 - Coligação: PMDB / PSD, 416504 votos, 6 candidatos eleitos
+4 - Coligação: PRB / PSC, 382513 votos, 5 candidatos eleitos
+5 - Coligação: PPS / PHS / PMB, 248178 votos, 3 candidatos eleitos
+6 - Coligação: PV, 223008 votos, 2 candidatos eleitos
+7 - Coligação: PTB, 213384 votos, 2 candidatos eleitos
+8 - Coligação: PSOL / PCB, 153771 votos, 2 candidatos eleitos
+9 - Coligação: PTN, 144285 votos, 1 candidato eleito
+10 - Coligação: NOVO, 121498 votos, 1 candidato eleito
+11 - Coligação: PC do B, 81654 votos, 0 candidato eleito
+12 - Coligação: PSL, 61767 votos, 0 candidato eleito
+13 - Coligação: PRP / PTC / PT do B, 48511 votos, 0 candidato eleito
+14 - Coligação: SD, 43887 votos, 0 candidato eleito
+15 - Coligação: REDE, 39596 votos, 0 candidato eleito
+16 - Coligação: PSDC, 31414 votos, 0 candidato eleito
+17 - Coligação: PEN, 22594 votos, 0 candidato eleito
+18 - Coligação: PRTB, 18144 votos, 0 candidato eleito
+19 - Coligação: PPL, 11915 votos, 0 candidato eleito
+20 - Coligação: PSTU, 3661 votos, 0 candidato eleito
+21 - Coligação: PCO, 359 votos, 0 candidato eleito
+
+Votação (nominal) dos partidos e número de candidatos eleitos:
+1 - PT, 737757 votos, 9 candidatos eleitos
+2 - PSDB, 598106 votos, 11 candidatos eleitos
+3 - PRB, 328328 votos, 4 candidatos eleitos
+4 - DEM, 271058 votos, 4 candidatos eleitos
+5 - PSD, 239948 votos, 4 candidatos eleitos
+6 - PV, 223008 votos, 2 candidatos eleitos
+7 - PTB, 213384 votos, 2 candidatos eleitos
+8 - PMDB, 176556 votos, 2 candidatos eleitos
+9 - PSB, 163872 votos, 3 candidatos eleitos
+10 - PR, 153276 votos, 4 candidatos eleitos
+11 - PSOL, 152757 votos, 2 candidatos eleitos
+12 - PHS, 147371 votos, 1 candidato eleito
+13 - PTN, 144285 votos, 1 candidato eleito
+14 - NOVO, 121498 votos, 1 candidato eleito
+15 - PDT, 116223 votos, 0 candidato eleito
+16 - PP, 114128 votos, 1 candidato eleito
+17 - PPS, 95974 votos, 2 candidatos eleitos
+18 - PC do B, 81654 votos, 0 candidato eleito
+19 - PSL, 61767 votos, 0 candidato eleito
+20 - PSC, 54185 votos, 1 candidato eleito
+21 - SD, 43887 votos, 0 candidato eleito
+22 - REDE, 39596 votos, 0 candidato eleito
+23 - PROS, 38081 votos, 1 candidato eleito
+24 - PSDC, 31414 votos, 0 candidato eleito
+25 - PRP, 26065 votos, 0 candidato eleito
+26 - PEN, 22594 votos, 0 candidato eleito
+27 - PRTB, 18144 votos, 0 candidato eleito
+28 - PTC, 17165 votos, 0 candidato eleito
+29 - PPL, 11915 votos, 0 candidato eleito
+30 - PT do B, 5281 votos, 0 candidato eleito
+31 - PMB, 4833 votos, 0 candidato eleito
+32 - PSTU, 3661 votos, 0 candidato eleito
+33 - PCB, 1014 votos, 0 candidato eleito
+34 - PCO, 359 votos, 0 candidato eleito
+
+Total de votos nominais: 4459144

@@ -1,0 +1,182 @@
+Número de vagas: 41
+
+Vereadores eleitos:
+1 - JOÃO LUIZ (PRB, 13978 votos) - Coligação: PRB / PSC
+2 - HIRAM NICOLAU (PSD, 12874 votos) - Coligação: PSD / PROS
+3 - REIZO CASTELO BRANCO (PTB, 10403 votos) - Coligação: PP / PTB
+4 - WILKER BARRETO (PHS, 10207 votos)
+5 - ÁLVARO CAMPELO (PP, 9573 votos) - Coligação: PP / PTB
+6 - MARCEL ALEXANDRE (PMDB, 9566 votos)
+7 - FELIPE SOUZA (PTN, 9263 votos)
+8 - GILMAR NASCIMENTO (PSD, 8734 votos) - Coligação: PSD / PROS
+9 - ROBERTO SABINO (PROS, 8728 votos) - Coligação: PSD / PROS
+10 - PLINIO VALERIO (PSDB, 8348 votos)
+11 - PROF. JACQUELINE (PHS, 8222 votos)
+12 - JAILDO DOS RODOVIÁRIOS (PC do B, 8011 votos)
+13 - JOELSON SILVA (PSC, 7959 votos) - Coligação: PRB / PSC
+14 - PROFª THEREZINHA RUIZ (DEM, 7571 votos)
+15 - MAURO TEIXEIRA (PTN, 7432 votos)
+16 - WALLACE OLIVEIRA (PTN, 6819 votos)
+17 - CARLOS PORTTA (PSB, 6610 votos)
+18 - ELIAS EMANUEL (PSDB, 6397 votos)
+19 - ROSIVALDO CORDOVIL (PTN, 6392 votos)
+20 - DIEGO AFONSO (PDT, 6275 votos) - Coligação: PDT / PSDC
+21 - PROFESSOR SAMUEL (PHS, 5801 votos)
+22 - EVERTON ASSIS (DEM, 5353 votos)
+23 - RAULZINHO (DEM, 5212 votos)
+24 - BESSA (PHS, 5167 votos)
+25 - MARCELO SERAFIM (PSB, 5108 votos)
+26 - CHICO PRETO (PMN, 5079 votos) - Coligação: REDE / PMN
+27 - GLÓRIA CARRATTE (PRP, 5059 votos) - Coligação: PSL / PRP
+28 - FRED MOTA (PR, 4881 votos)
+29 - DR. EWERTON WANDERLEY (PPL, 4719 votos)
+30 - PROF. GEDEÃO AMORIM (PMDB, 4712 votos)
+31 - CORONEL GILVANDRO MOTA (PTC, 4014 votos)
+32 - DR. ISAAC TAYAH (PSDC, 3917 votos) - Coligação: PDT / PSDC
+33 - ROSINALDO BUAL (PSB, 3822 votos)
+34 - WILLIAM ABREU (PMN, 3820 votos) - Coligação: REDE / PMN
+35 - SARGENTO BENTES PAPINHA (PR, 3618 votos)
+36 - SASSA DA CONSTRUÇÃO CIVIL (PT, 3528 votos)
+37 - CLAUDIO PROENÇA (PR, 3488 votos)
+38 - DAVID REIS (PV, 3479 votos)
+39 - PROF. FRANÇOIS  (FRANSUA) (PV, 3363 votos)
+40 - MISSIONARIO ANDRE (PTC, 3277 votos)
+41 - JOANA D'ARC PROTETORA (PR, 3261 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - JOÃO LUIZ (PRB, 13978 votos) - Coligação: PRB / PSC
+2 - HIRAM NICOLAU (PSD, 12874 votos) - Coligação: PSD / PROS
+3 - REIZO CASTELO BRANCO (PTB, 10403 votos) - Coligação: PP / PTB
+4 - WILKER BARRETO (PHS, 10207 votos)
+5 - ÁLVARO CAMPELO (PP, 9573 votos) - Coligação: PP / PTB
+6 - MARCEL ALEXANDRE (PMDB, 9566 votos)
+7 - FELIPE SOUZA (PTN, 9263 votos)
+8 - GILMAR NASCIMENTO (PSD, 8734 votos) - Coligação: PSD / PROS
+9 - ROBERTO SABINO (PROS, 8728 votos) - Coligação: PSD / PROS
+10 - PLINIO VALERIO (PSDB, 8348 votos)
+11 - PROF. JACQUELINE (PHS, 8222 votos)
+12 - JAILDO DOS RODOVIÁRIOS (PC do B, 8011 votos)
+13 - JOELSON SILVA (PSC, 7959 votos) - Coligação: PRB / PSC
+14 - PROFª THEREZINHA RUIZ (DEM, 7571 votos)
+15 - MAURO TEIXEIRA (PTN, 7432 votos)
+16 - AMAURI COLARES (PRB, 7031 votos) - Coligação: PRB / PSC
+17 - RONALDO TABOSA (PP, 6945 votos) - Coligação: PP / PTB
+18 - WALLACE OLIVEIRA (PTN, 6819 votos)
+19 - JORNADA (PSD, 6772 votos) - Coligação: PSD / PROS
+20 - MITOSO (PSD, 6685 votos) - Coligação: PSD / PROS
+21 - CARLOS PORTTA (PSB, 6610 votos)
+22 - SILDOMAR ABTIBOL (PROS, 6553 votos) - Coligação: PSD / PROS
+23 - ELIAS EMANUEL (PSDB, 6397 votos)
+24 - ROSIVALDO CORDOVIL (PTN, 6392 votos)
+25 - ROBERTO CIDADE (PTN, 6285 votos)
+26 - DIEGO AFONSO (PDT, 6275 votos) - Coligação: PDT / PSDC
+27 - PROFESSOR SAMUEL (PHS, 5801 votos)
+28 - DR ALONSO OLIVEIRA (PTN, 5752 votos)
+29 - DANTE (PSDB, 5700 votos)
+30 - EVERTON ASSIS (DEM, 5353 votos)
+31 - JOÃOZINHO MIRANDA (PTN, 5266 votos)
+32 - RAULZINHO (DEM, 5212 votos)
+33 - BESSA (PHS, 5167 votos)
+34 - MARCELO SERAFIM (PSB, 5108 votos)
+35 - CEARA DO SANTA ETELVINA (DEM, 5104 votos)
+36 - SOCORRO SAMPAIO (PP, 5096 votos) - Coligação: PP / PTB
+37 - CHICO PRETO (PMN, 5079 votos) - Coligação: REDE / PMN
+38 - GLÓRIA CARRATTE (PRP, 5059 votos) - Coligação: PSL / PRP
+39 - JAIRO DA VICAL (PROS, 4925 votos) - Coligação: PSD / PROS
+40 - FRED MOTA (PR, 4881 votos)
+41 - DR. EWERTON WANDERLEY (PPL, 4719 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+16 - AMAURI COLARES (PRB, 7031 votos) - Coligação: PRB / PSC
+17 - RONALDO TABOSA (PP, 6945 votos) - Coligação: PP / PTB
+19 - JORNADA (PSD, 6772 votos) - Coligação: PSD / PROS
+20 - MITOSO (PSD, 6685 votos) - Coligação: PSD / PROS
+22 - SILDOMAR ABTIBOL (PROS, 6553 votos) - Coligação: PSD / PROS
+25 - ROBERTO CIDADE (PTN, 6285 votos)
+28 - DR ALONSO OLIVEIRA (PTN, 5752 votos)
+29 - DANTE (PSDB, 5700 votos)
+31 - JOÃOZINHO MIRANDA (PTN, 5266 votos)
+35 - CEARA DO SANTA ETELVINA (DEM, 5104 votos)
+36 - SOCORRO SAMPAIO (PP, 5096 votos) - Coligação: PP / PTB
+39 - JAIRO DA VICAL (PROS, 4925 votos) - Coligação: PSD / PROS
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+42 - PROF. GEDEÃO AMORIM (PMDB, 4712 votos)
+49 - CORONEL GILVANDRO MOTA (PTC, 4014 votos)
+51 - DR. ISAAC TAYAH (PSDC, 3917 votos) - Coligação: PDT / PSDC
+52 - ROSINALDO BUAL (PSB, 3822 votos)
+53 - WILLIAM ABREU (PMN, 3820 votos) - Coligação: REDE / PMN
+58 - SARGENTO BENTES PAPINHA (PR, 3618 votos)
+59 - SASSA DA CONSTRUÇÃO CIVIL (PT, 3528 votos)
+60 - CLAUDIO PROENÇA (PR, 3488 votos)
+61 - DAVID REIS (PV, 3479 votos)
+66 - PROF. FRANÇOIS  (FRANSUA) (PV, 3363 votos)
+68 - MISSIONARIO ANDRE (PTC, 3277 votos)
+69 - JOANA D'ARC PROTETORA (PR, 3261 votos)
+
+Votação (nominal) das coligações e número de candidatos eleitos:
+1 - Coligação: PTN, 87044 votos, 4 candidatos eleitos
+2 - Coligação: PHS, 78821 votos, 4 candidatos eleitos
+3 - Coligação: PSD / PROS, 67064 votos, 3 candidatos eleitos
+4 - Coligação: DEM, 64343 votos, 3 candidatos eleitos
+5 - Coligação: PR, 62525 votos, 4 candidatos eleitos
+6 - Coligação: PSB, 59204 votos, 3 candidatos eleitos
+7 - Coligação: PDT / PSDC, 49654 votos, 2 candidatos eleitos
+8 - Coligação: PTC, 41826 votos, 2 candidatos eleitos
+9 - Coligação: PRB / PSC, 41689 votos, 2 candidatos eleitos
+10 - Coligação: PP / PTB, 41300 votos, 2 candidatos eleitos
+11 - Coligação: PSDB, 37983 votos, 2 candidatos eleitos
+12 - Coligação: PV, 37593 votos, 2 candidatos eleitos
+13 - Coligação: REDE / PMN, 36146 votos, 2 candidatos eleitos
+14 - Coligação: PMDB, 35456 votos, 2 candidatos eleitos
+15 - Coligação: PC do B, 35088 votos, 1 candidato eleito
+16 - Coligação: PSL / PRP, 31008 votos, 1 candidato eleito
+17 - Coligação: PT, 28707 votos, 1 candidato eleito
+18 - Coligação: PPL, 27212 votos, 1 candidato eleito
+19 - Coligação: PRTB, 22468 votos, 0 candidato eleito
+20 - Coligação: PPS, 20329 votos, 0 candidato eleito
+21 - Coligação: SD, 18390 votos, 0 candidato eleito
+22 - Coligação: PMB, 16944 votos, 0 candidato eleito
+23 - Coligação: PT do B, 15307 votos, 0 candidato eleito
+24 - Coligação: PEN, 14320 votos, 0 candidato eleito
+25 - Coligação: PSOL / PCB, 7804 votos, 0 candidato eleito
+26 - Coligação: PSTU, 264 votos, 0 candidato eleito
+
+Votação (nominal) dos partidos e número de candidatos eleitos:
+1 - PTN, 87044 votos, 4 candidatos eleitos
+2 - PHS, 78821 votos, 4 candidatos eleitos
+3 - DEM, 64343 votos, 3 candidatos eleitos
+4 - PR, 62525 votos, 4 candidatos eleitos
+5 - PSB, 59204 votos, 3 candidatos eleitos
+6 - PTC, 41826 votos, 2 candidatos eleitos
+7 - PSDB, 37983 votos, 2 candidatos eleitos
+8 - PV, 37593 votos, 2 candidatos eleitos
+9 - PSD, 37434 votos, 2 candidatos eleitos
+10 - PDT, 37139 votos, 1 candidato eleito
+11 - PMDB, 35456 votos, 2 candidatos eleitos
+12 - PC do B, 35088 votos, 1 candidato eleito
+13 - PRB, 30647 votos, 1 candidato eleito
+14 - PMN, 29709 votos, 2 candidatos eleitos
+15 - PROS, 29630 votos, 1 candidato eleito
+16 - PT, 28707 votos, 1 candidato eleito
+17 - PP, 28166 votos, 1 candidato eleito
+18 - PPL, 27212 votos, 1 candidato eleito
+19 - PRTB, 22468 votos, 0 candidato eleito
+20 - PPS, 20329 votos, 0 candidato eleito
+21 - SD, 18390 votos, 0 candidato eleito
+22 - PSL, 17393 votos, 0 candidato eleito
+23 - PMB, 16944 votos, 0 candidato eleito
+24 - PT do B, 15307 votos, 0 candidato eleito
+25 - PEN, 14320 votos, 0 candidato eleito
+26 - PRP, 13615 votos, 1 candidato eleito
+27 - PTB, 13134 votos, 1 candidato eleito
+28 - PSDC, 12515 votos, 1 candidato eleito
+29 - PSC, 11042 votos, 1 candidato eleito
+30 - PSOL, 7730 votos, 0 candidato eleito
+31 - REDE, 6437 votos, 0 candidato eleito
+32 - PSTU, 264 votos, 0 candidato eleito
+33 - PCB, 74 votos, 0 candidato eleito
+
+Total de votos nominais: 978489

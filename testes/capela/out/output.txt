@@ -1,0 +1,68 @@
+Número de vagas: 13
+
+Vereadores eleitos:
+1 - ADALTO SUKITA (PTN, 1190 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+2 - TONINHO ARIMATEA (PSC, 836 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+3 - ALEXSANDRO NASCIMENTO (PSB, 787 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+4 - LOPES (PR, 742 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+5 - ZEZINHO DE DOUTOR GERALDO (PSC, 705 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+6 - PROFESSORA AUREA (PR, 663 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+7 - ARILDO DO LAPRAÇA (PDT, 623 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+8 - RONY (PPS, 597 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+9 - TONY DO PT (PT, 563 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+10 - JOYCE ROCHA (PTB, 558 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+11 - TIA SILVANA (PTN, 548 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+12 - IRMÃO ISAAC (PTN, 521 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+13 - IOLANDO FILHO DO PROF LUIS (PRP, 458 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ADALTO SUKITA (PTN, 1190 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+2 - TONINHO ARIMATEA (PSC, 836 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+3 - ALEXSANDRO NASCIMENTO (PSB, 787 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+4 - LOPES (PR, 742 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+5 - ZEZINHO DE DOUTOR GERALDO (PSC, 705 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+6 - PROFESSORA AUREA (PR, 663 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+7 - ARILDO DO LAPRAÇA (PDT, 623 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+8 - RONY (PPS, 597 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+9 - TONY DO PT (PT, 563 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+10 - JOYCE ROCHA (PTB, 558 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+11 - TIA SILVANA (PTN, 548 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+12 - IRMÃO ISAAC (PTN, 521 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+13 - JOÃO PAULO (PROS, 512 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+13 - JOÃO PAULO (PROS, 512 votos) - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+17 - IOLANDO FILHO DO PROF LUIS (PRP, 458 votos) - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B
+
+Votação (nominal) das coligações e número de candidatos eleitos:
+1 - Coligação: PDT / PTB / PSL / PSC / PR / PMN / PSB / PSD / PROS, 9136 votos, 7 candidatos eleitos
+2 - Coligação: PT / PMDB / PTN / PPS / PRP / PC do B, 7720 votos, 6 candidatos eleitos
+3 - Coligação: PRB / DEM / PEN / PPL, 1256 votos, 0 candidato eleito
+4 - Coligação: PSTU, 24 votos, 0 candidato eleito
+
+Votação (nominal) dos partidos e número de candidatos eleitos:
+1 - PTN, 4879 votos, 3 candidatos eleitos
+2 - PR, 2386 votos, 2 candidatos eleitos
+3 - PSC, 2266 votos, 2 candidatos eleitos
+4 - PSB, 1633 votos, 1 candidato eleito
+5 - PDT, 1225 votos, 1 candidato eleito
+6 - PPS, 1095 votos, 1 candidato eleito
+7 - PT, 927 votos, 1 candidato eleito
+8 - PRB, 886 votos, 0 candidato eleito
+9 - PTB, 558 votos, 1 candidato eleito
+10 - PROS, 512 votos, 0 candidato eleito
+11 - PRP, 458 votos, 1 candidato eleito
+12 - PSD, 457 votos, 0 candidato eleito
+13 - PC do B, 259 votos, 0 candidato eleito
+14 - PEN, 244 votos, 0 candidato eleito
+15 - PPL, 126 votos, 0 candidato eleito
+16 - PMDB, 102 votos, 0 candidato eleito
+17 - PSL, 87 votos, 0 candidato eleito
+18 - PSTU, 24 votos, 0 candidato eleito
+19 - PMN, 12 votos, 0 candidato eleito
+
+Total de votos nominais: 18136
